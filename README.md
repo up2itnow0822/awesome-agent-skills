@@ -205,4 +205,4 @@ The most common approach is to version skills in Git (in a shared repo) and let 
 
 ## Contributing
 
-Please read our [contribution guidelines](contributing.md) before submitting changes.
+Please read our [contribution guidelines](CONTRIBUTING.md) before submitting changes.
